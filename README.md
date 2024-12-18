@@ -1,14 +1,10 @@
-# Code in React 19
+# Learn React With Interview Questions
 
-As React 19 is new, this scaffolding project is for everyone who wants to start coding in React 19.
-
-It has:
-
-- Vite
-- React 19.0(Stable Version)
-- TailwindCSS
+- **Effectree** - [Video Tutorial(Bangla)](https://youtu.be/aH8gKMjlX80) || [Source Code]()
 
 ## Run it Locally
+
+> The project uses React 19 Stable Release
 
 - Clone or fork the repo
 - Install dependencies using `npm install` or `yarn install`
