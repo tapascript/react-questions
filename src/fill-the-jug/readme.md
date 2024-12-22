@@ -20,5 +20,7 @@ Achieve the followings with a ReactJS project.
 - The aesthetics of the jug, water, and button is not important. However, it is desirable.
 
 ## Solution
-TBA
+Here is the full length video explains the solution:
+
+[![Effectree](./banner.png)](https://www.youtube.com/watch?v=CERed6QjUbk "Solution")
 
