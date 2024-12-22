@@ -1,9 +1,10 @@
-import Parent from "./effectree/parent";
+//import { Demo } from "./effectree/demo";
+import { Demo } from "./fill-the-jug/demo";
 
 function App() {
   return (
-    <div className="flex flex-col items-center m-2 text-center">
-      <Parent />
+    <div className="flex flex-col items-center m-4 text-center">
+      <Demo />
     </div>
   );
 }
