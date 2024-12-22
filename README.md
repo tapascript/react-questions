@@ -1,6 +1,7 @@
 # Learn React With Interview Questions
 
 - [**Effectree**](./src/effectree/readme.md)
+- [**Fill The Jug**](https://github.com/tapascript/react-questions/tree/main/src/fill-the-jug)
 
 ## Run it Locally
 
