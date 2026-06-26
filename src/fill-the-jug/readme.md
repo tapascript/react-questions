@@ -1,6 +1,6 @@
 # Fill the Jug 🏺
 
-You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React. 
+You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React.
 
 Let's understand the `Fill the Jug` problem.
 

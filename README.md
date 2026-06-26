@@ -2,6 +2,7 @@
 
 - [**Effectree**](./src/effectree/readme.md)
 - [**Fill The Jug**](https://github.com/tapascript/react-questions/tree/main/src/fill-the-jug)
+- [**3-Idiots**](https://github.com/tapascript/react-questions/tree/main/src/3-idiots)
 
 ## Run it Locally
 
@@ -14,6 +15,7 @@
 The app will be available on `http://localhost:5173` by default.
 
 ## 🫶 Support
+
 Liked it? You can show your support with a STAR(⭐).
 
 > Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)

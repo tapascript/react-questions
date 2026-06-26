@@ -1,6 +1,6 @@
 # Effectree 🟣
 
-You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React. 
+You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React.
 
 Let's understand the `Effectree` problem.
 
@@ -19,7 +19,7 @@ Answer following with a ReactJS project:
 - Now add the useEffect hook to each of the component to run once.
 - Add a `console.log` to each of the useEffect like, `I am the Parent`, `I am the Child`, so on.
 - Now run the application.
-- The Question is in which sequence(or order) the `useEffect(s)` will execute? 
+- The Question is in which sequence(or order) the `useEffect(s)` will execute?
   - [ ] Parent ➡️ Child ➡️ GrandChild
   - [ ] GrandChild ➡️ Child ➡️ Parent
   - [ ] Child ➡️ Parent ➡️ GrandChild
