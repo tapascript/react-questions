@@ -1,9 +1,11 @@
 # Effectree 🟣
+
 You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React. 
 
 Let's understand the `Effectree` problem.
 
 ## The Problem Statement
+
 Answer following with a ReactJS project:
 
 - Create a component hierarchy like this:
@@ -24,6 +26,7 @@ Answer following with a ReactJS project:
   - [ ] The order will be different everytime we run the app
 
 ## Expectations
+
 - Clean code
 - No unused state
 - No unnecessary effects
@@ -31,8 +34,7 @@ Answer following with a ReactJS project:
 - Knowing how `useEffect` works!
 
 ## Solution
+
 Here is the full length video explains the solution:
 
 [![Effectree](./banner.png)](https://www.youtube.com/watch?v=aH8gKMjlX80 "Solution")
-
-

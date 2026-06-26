@@ -1,9 +1,11 @@
 # Fill the Jug 🏺
+
 You will often find a problem like this asked to you by the interviewr. Under the hood, solution of these problems are built upon the simple fundamental knowledge of React. 
 
 Let's understand the `Fill the Jug` problem.
 
 ## The Problem Statement
+
 Achieve the followings with a ReactJS project.
 
 - Create a Jug(mug or container) that can hold water in it. Create two buttons to fill and empty the water from the jug.
@@ -13,6 +15,7 @@ Achieve the followings with a ReactJS project.
 - Everytime you fill and empty water, a basic wave animation should be added to the water. The animation should be stopped after 3 seconds and start again next time when you fill and empty the water.
 
 ## Expectations
+
 - Clean code
 - No unused state
 - No unnecessary effects
@@ -20,7 +23,7 @@ Achieve the followings with a ReactJS project.
 - The aesthetics of the jug, water, and button is not important. However, it is desirable.
 
 ## Solution
+
 Here is the full length video explains the solution:
 
 [![Effectree](./banner.png)](https://www.youtube.com/watch?v=CERed6QjUbk "Solution")
-
